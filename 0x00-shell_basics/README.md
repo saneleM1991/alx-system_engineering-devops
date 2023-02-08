@@ -7,4 +7,5 @@
 - ls -la : Display current directory contents, including hidden files (starting with .). Use the long format
 - ls -aln : Display current directory contents (Long format, with user and group IDs displayed numerically, And hidden files (starting with .))
 - mkdir : T create a directory
-- mv : Is used to move file or directory 
+- mv : Is used to move file or directory
+- rm : Is used to delete file or non empty directory 
