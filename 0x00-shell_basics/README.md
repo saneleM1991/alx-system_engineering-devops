@@ -14,3 +14,4 @@
 - file : file is used to get info about the file
 ln -s f linkname : To create symbol link
 - cp : command to copy file directory
+- [[:upper:]]* : wildcard to mtch any file begining with uppercase latter
