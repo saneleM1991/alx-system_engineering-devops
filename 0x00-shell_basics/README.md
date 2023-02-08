@@ -9,3 +9,4 @@
 - mkdir : T create a directory
 - mv : Is used to move file or directory
 - rm : Is used to delete file or non empty directory 
+- rmdir : To remove empty directory
