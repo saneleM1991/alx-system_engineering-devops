@@ -10,3 +10,4 @@
 - mv : Is used to move file or directory
 - rm : Is used to delete file or non empty directory 
 - rmdir : To remove empty directory
+- cd - : a script that changes the working directory to the previous one.
