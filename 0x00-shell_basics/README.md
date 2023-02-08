@@ -13,3 +13,4 @@
 - cd - : a script that changes the working directory to the previous one.
 - file : file is used to get info about the file
 ln -s f linkname : To create symbol link
+- cp : command to copy file directory
