@@ -1,1 +1,2 @@
-Shell Permission Scprits
+# Shell Permission Scprits
+- su : To switch user
