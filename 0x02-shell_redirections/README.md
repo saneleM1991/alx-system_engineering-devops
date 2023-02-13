@@ -2,3 +2,4 @@
 - echo : this command is to display text on the console
 - cat : cat is used to display whole contant of a file
 - tail : To display last line of a file
+- head : id to display first lines of a file
